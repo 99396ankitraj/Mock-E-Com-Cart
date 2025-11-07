@@ -150,19 +150,19 @@ Note on Tailwind warnings in some IDEs: CSS linters may flag `@tailwind` at-rule
 ## Screenshots
 
 <p>
-  <img src="assets/screenshots/screenshot-receipt.png" alt="Receipt Modal" width="800" />
+  <img src="assets/screenshots/Screenshot%202025-11-07%20150742.png" alt="Screenshot 1" width="800" />
 </p>
 
 <p>
-  <img src="assets/screenshots/screenshot-cart.png" alt="Cart Page" width="800" />
+  <img src="assets/screenshots/Screenshot%202025-11-07%20150834.png" alt="Screenshot 2" width="800" />
 </p>
 
 <p>
-  <img src="assets/screenshots/screenshot-orders.png" alt="Order History" width="800" />
+  <img src="assets/screenshots/Screenshot%202025-11-07%20150901.png" alt="Screenshot 3" width="800" />
 </p>
 
 <p>
-  <img src="assets/screenshots/screenshot-products.png" alt="Products Grid" width="800" />
+  <img src="assets/screenshots/Screenshot%202025-11-07%20150919.png" alt="Screenshot 4" width="800" />
 </p>
 
 ---
