@@ -1,0 +1,16 @@
+# Frontend .gitignore (Vite + React)
+node_modules/
+dist/
+.vite/
+.env
+.env.*
+*.log
+npm-debug.log*
+yarn-*.log*
+pnpm-*.log*
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
